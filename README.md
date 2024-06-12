@@ -53,13 +53,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=whosthisjay&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false" height="210" alt="activity-graph graph"  />
 </div>
 <hr/>
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-</div>
+</div> -->
+
 <hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosthisjay&label=Profile%20views&color=0e75b6&style=flat" alt="whosthisjay" /> </p>
