@@ -67,8 +67,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/whosthisjay" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="whosthisjay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ghckg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghckg" height="30" width="40" /></a>
+<a href="https://x.com/whosthisjay" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="whosthisjay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/whosthisjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghckg" height="30" width="40" /></a>
 <a href="https://instagram.com/whos.this.jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whos.this.jay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cgcj](https://leetcode.com/u/Parmar_Jay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cgcj" height="30" width="40" /></a>
 </p>
