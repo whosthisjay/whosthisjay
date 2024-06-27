@@ -1,5 +1,13 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=whosthisjay&label=Profile%20views&color=0e75b6&style=flat" alt="whosthisjay" /> </p>
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://x.com/whosthisjay" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="whosthisjay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/whosthisjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghckg" height="30" width="40" /></a>
+<a href="https://instagram.com/whos.this.jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whos.this.jay" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Parmar_Jay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cgcj" height="30" width="40" /></a>
+</p>
 <div align="center">
-  <img height="280" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/06f21a161921919.63cd7887d0a70.gif 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif 1000w" sizes="(max-width: 1000px) 100vw, 1000px" class="ImageElement-image-SRv" alt="animated coding developer funny gif gif hacker ILLUSTRATION  portrait software developer software engineer" loading="lazy" fetchpriority="auto">
+  <img height="260" width="380" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/06f21a161921919.63cd7887d0a70.gif 600w, https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif 1000w" sizes="(max-width: 1000px) 100vw, 1000px" class="ImageElement-image-SRv" alt="animated coding developer funny gif gif hacker ILLUSTRATION  portrait software developer software engineer" loading="lazy" fetchpriority="auto">
 </div>
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/uday-sharma-602b33267/">Jay Parmar</a><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60px"></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=19FFD6&center=true&vCenter=true&width=800&lines=A+passionate+Full+Stack+Java+developer+from+India🇮🇳" alt="Typing SVG" /></a></h3>
@@ -61,14 +69,6 @@
   <br/><br/><br/>
 </div> -->
 
-<hr/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whosthisjay&label=Profile%20views&color=0e75b6&style=flat" alt="whosthisjay" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/whosthisjay" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="whosthisjay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/whosthisjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghckg" height="30" width="40" /></a>
-<a href="https://instagram.com/whos.this.jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whos.this.jay" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Parmar_Jay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cgcj" height="30" width="40" /></a>
-</p>
+
